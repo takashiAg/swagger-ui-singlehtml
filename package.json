@@ -1,0 +1,15 @@
+{
+  "name": "swaggeryml-to-single-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs",
+    "serve": "serve -s ."
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "jsdom": "^24.0.0",
+    "serve": "^14.2.2"
+  }
+}
